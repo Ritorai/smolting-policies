@@ -1,0 +1,5 @@
+title: Smolting — Policies
+theme: jekyll-theme-minimal
+markdown: kramdown
+# .md pages → clean URLs (…/smolting-anywhere/privacy)
+permalink: pretty
